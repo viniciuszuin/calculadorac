@@ -1,1 +1,1 @@
-Projeto simples de uma calculadora que envolve números complexos em C
+Projeto de uma calculadora que envolve números complexos em C
